@@ -1,0 +1,60 @@
+
+Mnemonic: cross gossip truth despair cinnamon pumpkin toast model spoon multiply isolate say
+Unused address: yiTYNdK4qs5GC6G4UEQy58HnCDCVmEFwat
+
+Identity: BhV75k6YdJE7x1heyE3gCaeWvcR6nHNRF8ijg9z8eSjC
+PublicKey: AmrGCKr5fGQTJ9HwUbBd5/o6JKNq/npaslfXWK6QH1LH
+
+Name registered:
+ {
+  '$protocolVersion': 1,
+  '$id': 'VKg9DXpoSWN34qbYScGHwqbU2w43RKXLfjZcu5n28xx',
+  '$type': 'domain',
+  '$dataContractId': 'Bw9PUC3aSEGQ4j5qrvpNLrRNFPVMiUHZLr1atgfYJcmf',
+  '$ownerId': 'BhV75k6YdJE7x1heyE3gCaeWvcR6nHNRF8ijg9z8eSjC',
+  '$revision': 1,
+  label: 'blockbot',
+  normalizedLabel: 'blockbot',
+  normalizedParentDomainName: 'dash',
+  preorderSalt: 'wVm7ZqNBD/iYd7Voysx++bGJyO0ijEGVgqMgugUNj1Y=',
+  records: {
+    dashUniqueIdentityId: 'BhV75k6YdJE7x1heyE3gCaeWvcR6nHNRF8ijg9z8eSjC'
+  },
+  subdomainRules: { allowSubdomains: false }
+}
+
+                                                       
+Contract resistered:
+{
+  protocolVersion: 1,
+  '$id': '53wiNXNx3Fepf7eQUAgywbkUPykVXVFbw5Z2HtkdBZMb',
+  '$schema': 'https://schema.dash.org/dpp-0-4-0/meta/data-contract',
+  ownerId: 'BhV75k6YdJE7x1heyE3gCaeWvcR6nHNRF8ijg9z8eSjC',
+  documents: {
+    note: {
+      type: 'object',
+      properties: { message: { type: 'string' } },
+      additionalProperties: false
+    }
+  }
+}
+
+Document(s):
+ {
+  '$protocolVersion': 1,
+  '$id': '2FKebcG4QCCdYmjVSBhhD6Zewywbz3NJjgPhbGJoCfQX',
+  '$type': 'note',
+  '$dataContractId': '53wiNXNx3Fepf7eQUAgywbkUPykVXVFbw5Z2HtkdBZMb',
+  '$ownerId': 'BhV75k6YdJE7x1heyE3gCaeWvcR6nHNRF8ijg9z8eSjC',
+  '$revision': 1,
+  message: 'Tutorial Test @ Sat, 05 Feb 2022 19:35:53 GMT'
+}
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+wallet2:
+
+Mnemonic: lizard book dance marble valid impose spoil mad copper rich hurry season
+Unused address: ycvos6Rqy7sjP8kXwY5ND5VosnW3jaLiNQ
+
